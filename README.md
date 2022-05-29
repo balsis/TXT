@@ -1,7 +1,7 @@
 # Practice with GIT & TXT
 
  **1. Создать внешний репозиторий c названием TXT.**  
-```  //репозиторий создан [https://github.com/balsis/TXT](https://github.com/balsis/txt) ```  
+```  //репозиторий создан https://github.com/balsis/txt ```  
  **2. Клонировать репозиторий TXT на локальный компьютер.**  
   	`$ git clone https://github.com/balsis/JSON.git`  
  **3. Внутри локального TXT создать файл “new.txt”.**  
