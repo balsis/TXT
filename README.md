@@ -3,7 +3,7 @@
  **1. Создать внешний репозиторий c названием TXT.**  
 ```  //репозиторий создан https://github.com/balsis/txt ```  
  **2. Клонировать репозиторий TXT на локальный компьютер.**  
-  	`$ git clone https://github.com/balsis/JSON.git`  
+  	`$ git clone https://github.com/balsis/txt.git`  
  **3. Внутри локального TXT создать файл “new.txt”.**  
   `	$ touch new.txt  `  
  **4. Добавить файл под гит.**  
